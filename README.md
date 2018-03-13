@@ -1,0 +1,1 @@
+Import workstation.sql to MySQL database. Name the database 'workstation'
